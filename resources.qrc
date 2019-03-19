@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/rec">
+        <file>assets/close.svg</file>
+    </qresource>
+</RCC>
